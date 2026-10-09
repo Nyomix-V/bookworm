@@ -1,0 +1,12 @@
+# Fichiers de données volumineux (livres Gutenberg)
+*.txt
+pg_catalog.csv
+
+# Caches générés au runtime
+cache/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
